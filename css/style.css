@@ -62,15 +62,11 @@ footer {
 
 /* TYPOGRAPHY */
 
-.feat-article-title {
-
+.title {
+    font-size: 2em;
 }
 
-.feat-article-info {
-
-}
-
-.article-title, {
+.article-title {
     font-size: 1.5rem;
 }
 
@@ -82,7 +78,7 @@ footer {
     font-size: 1.125rem
 }
 
-.article-info, {
+.article-info {
     font-weight: 500;
 }
 
